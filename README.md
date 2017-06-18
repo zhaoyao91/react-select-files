@@ -1,6 +1,11 @@
 # React Select Files
 Provide React component with a function to help select files.
 
+## Installation
+```
+npm insall --save react-select-files
+```
+
 ## Usage
 
 ```
